@@ -40,6 +40,23 @@
 - [View](https://rb.gy/mzfu0) **SQL Hackathon Dashboard**
 - [View](https://rb.gy/m9zcv) **Sales Dashboard Analysis**
 
+## About Me:
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=justinjabo250&label=Profile%20views&color=0e75b6&style=flat" alt="justinjabo250" /> </p>
+
+- 📝 I regularly write articles on [Data Scientist, Data Engineer, Business Intelligence Analyst,](Data Scientist, Data Engineer, Business Intelligence Analyst,)
+
+- 💬 Ask me about **Data Scientist, Data Engineer, Business Intelligence Analyst, Power BI Master, Data Modelling Power BI Master, Information Security Analyst, Computer Systems Analyst**
+
+- 📫 How to reach me **jabojustin250@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/jabo-justin-2815341a2/](https://www.linkedin.com/in/jabo-justin-2815341a2/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jabo-justin-2815341a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jabo-justin-2815341a2/" height="30" width="40" /></a>
+</p>
+
 ## My Skills:
 **Data Analysis & Machine Learning**
 
