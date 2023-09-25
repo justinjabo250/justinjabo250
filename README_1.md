@@ -46,7 +46,7 @@
 
 - 📝 I regularly write articles on [Data Scientist, Data Engineer, Business Intelligence Analyst,](Data Scientist, Data Engineer, Business Intelligence Analyst,)
 
-- 💬 Ask me about **Data Scientist, Data Engineer, Business Intelligence Analyst, Power BI Master, Data Modelling Power BI Master, Information Security Analyst, Computer Systems Analyst**
+- 💬 Ask me about **Data Scientist, Data Engineer, Business Intelligence Analyst, Power BI Master, Data Modelling Power BI Master, Information Security Analyst, Computer Systems Analyst, Huggingface, Gradio Application, Streamlit Application, FastAPI, BERT, NLP (Natural language processing), Machine Learning, AI Technology**
 
 - 📫 How to reach me **jabojustin250@gmail.com**
 
