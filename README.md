@@ -22,7 +22,7 @@
 ### Python:
 - [View](https://github.com/justinjabo250/Developing-A-SEPSIS-PREDICTION-App-with-the-help-of-machine-learning-and-FastAPI-Project.) **Developing A SEPSIS PREDICTION App with the help of machine learning and FastAPI Project**
 - [View](https://github.com/justinjabo250/Natural-language-processing-NLP-implementation-using-the-BERT-Sentiment-Analysis-App) **Sentiment Analysis with Finetuned Models Using Gradio and Streamlit App**
-- [View](https://github.com/ikoghoemmanuell/Deploying-a-ML-Model-with-Streamlit) **Deploying a Machine Learning Model with Streamlit**
+- [View](https://github.com/justinjabo250/Building-and-Using-Streamlit-to-Deploy-a-Machine-Learning-Model) **Using Streamlit to Build and to Deploy a Machine Learning Model**
 - [View](https://github.com/justinjabo250/Building-and-Deploying-Machine-Learning-Models-using-Gradio-Application) **Building and Deploying a Machine Learning Models Using Gradio Application**
 - [View](https://github.com/justinjabo250/Using-the-Streamlit-application-and-machine-learning-project-forecast-and-analyze-customer-Churn/tree/main) **Using the Streamlit application and machine learning project, forecast and analyze customer Churn.**
 - [View](https://github.com/justinjabo250/Time-series-forecasting-and-analysis-of-corporation-favorite-product-store-sales/blob/main/README.md) **Time Series Forecasting and analysis of corporation favorita product Store Sales**
