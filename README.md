@@ -25,7 +25,7 @@
 - [View](https://github.com/ikoghoemmanuell/Deploying-a-ML-Model-with-Streamlit) **Deploying a Machine Learning Model with Streamlit**
 - [View](https://github.com/ikoghoemmanuell/gradio-classification-app) **Deploying a Machine Learning Model with Gradio**
 - [View](https://github.com/ikoghoemmanuell/Classification----Predicting-Customer-Churn) **Customer Churn Prediction**
-- [View](https://github.com/ikoghoemmanuell/Regression-Project-Store-Sales----Time-Series-Forecasting-/blob/main/teamNice-LP2.ipynb) **Time Series Forecasting for Store Sales**
+- [View](https://github.com/justinjabo250/Time-series-forecasting-and-analysis-of-corporation-favorite-product-store-sales/blob/main/README.md) **Time Series Forecasting and analysis of corporation favorita product Store Sales**
 - [View](https://github.com/justinjabo250/Analysis-of-Indian-Startup-Ecosystem-Funding-Trends) **Analysis of Indian Startup Ecosystem Funding Trends**
 - [View](https://github.com/justinjabo250/The-detection-of-fake-news-using-deep-learning-algorithms-Cybersecurity-for-Bizstech-M.Sc) **The detection of fake news using deep learning algorithms Cybersecurity for Business M.Sc**
 - [View](https://github.com/justinjabo250/Sales-Analysis-and-Forecasting-Of-The-Grocery-Stores) **Sales Analysis and Forecasting Of The Grocery Stores**
