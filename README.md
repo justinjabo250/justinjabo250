@@ -23,7 +23,7 @@
 - [View](https://github.com/ikoghoemmanuell/Prediction-with-ML-and-FastAPI) **Sepsis Prediction with ML and FastAPI**
 - [View](https://github.com/ikoghoemmanuell/Sentiment-Analysis-with-Finetuned-Models/blob/main/Article.md) **Sentiment Analysis with Finetuned Models**
 - [View](https://github.com/ikoghoemmanuell/Deploying-a-ML-Model-with-Streamlit) **Deploying a Machine Learning Model with Streamlit**
-- [View](https://github.com/ikoghoemmanuell/gradio-classification-app) **Deploying a Machine Learning Model with Gradio**
+- [View](https://github.com/justinjabo250/Building-and-Deploying-Machine-Learning-Models-using-Gradio-Application) **Building and Deploying a Machine Learning Models Using Gradio Application**
 - [View](https://github.com/justinjabo250/Using-the-Streamlit-application-and-machine-learning-project-forecast-and-analyze-customer-Churn/tree/main) **Using the Streamlit application and machine learning project, forecast and analyze customer Churn.**
 - [View](https://github.com/justinjabo250/Time-series-forecasting-and-analysis-of-corporation-favorite-product-store-sales/blob/main/README.md) **Time Series Forecasting and analysis of corporation favorita product Store Sales**
 - [View](https://github.com/justinjabo250/Analysis-of-Indian-Startup-Ecosystem-Funding-Trends) **Analysis of Indian Startup Ecosystem Funding Trends**
