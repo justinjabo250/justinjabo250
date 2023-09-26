@@ -1,4 +1,4 @@
-[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/ikoghoemmanuell?tab=repositories)
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/justinjabo250?tab=repositories)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=orange)](https://www.linkedin.com/in/jabo-justin-2815341a2/) 
 [![Articles](https://img.shields.io/badge/MEDIUM-Articles-purple?logo=Medium)](https://medium.com/@jabojustin250)
 [![Articles](https://img.shields.io/badge/My-Portfolio-darkblue?logo=Website)](https://github.com/justinjabo250?tab=repositories)
