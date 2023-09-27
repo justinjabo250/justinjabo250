@@ -31,7 +31,7 @@
 - [View](https://github.com/justinjabo250/Sales-Analysis-and-Forecasting-Of-The-Grocery-Stores) **Sales Analysis and Forecasting Of The Grocery Stores**
 
 ### SQL:
-- [View](https://github.com/ikoghoemmanuell/SQL-Projects/blob/main/SQL%20-%20Wave%20Money%20Transfer%20Analysis.md) **Wave Money Transfer Analysis**
+- [View](https://github.com/justinjabo250/Wave-Money-Transfer-Analysis-project-uses-SQL-Query-Development) **Wave Money Transfer Analysis project uses SQL Query Development**
 - [View](https://github.com/ikoghoemmanuell/SQL-Projects/blob/main/SQL%20-Northwind%20Database.md) **Northwind Database Analysis**
 - [View](https://github.com/ikoghoemmanuell/SQL-Projects/blob/main/Techconnect%20Data_Analysis_with_SQL.md) **Tehconnect Data Analysis**
 
