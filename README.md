@@ -32,8 +32,8 @@
 
 ### SQL:
 - [View](https://github.com/justinjabo250/Wave-Money-Transfer-Analysis-project-uses-SQL-Query-Development) **Wave Money Transfer Analysis project uses SQL Query Development**
-- [View](https://github.com/ikoghoemmanuell/SQL-Projects/blob/main/SQL%20-Northwind%20Database.md) **Northwind Database Analysis**
-- [View](https://github.com/ikoghoemmanuell/SQL-Projects/blob/main/Techconnect%20Data_Analysis_with_SQL.md) **Tehconnect Data Analysis**
+- [View](https://github.com/justinjabo250/Wave-Money-Transfer-Analysis-project-uses-SQL-Query-Development/blob/main/SQL%20-Northwind%20Database.md) **Use SQL to analyze the Northwind database for a hypothetical online retail company**
+- [View](https://github.com/justinjabo250/Wave-Money-Transfer-Analysis-project-uses-SQL-Query-Development/blob/main/Techconnect%20Data_Analysis_with_SQL.md) **Examine data for the telecom firm techconnect using SQL**
 
 ### Dashboards:
 - [View](https://rb.gy/dy0dn) **Azubian 2019 Sales Analysis**
