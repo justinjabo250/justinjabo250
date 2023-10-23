@@ -1,7 +1,8 @@
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/justinjabo250?tab=repositories)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=orange)](https://www.linkedin.com/in/jabo-justin-2815341a2/) 
 [![Articles](https://img.shields.io/badge/MEDIUM-Articles-purple?logo=Medium)](https://medium.com/@jabojustin250)
-[![Articles](https://img.shields.io/badge/My-Portfolio-darkblue?logo=Website)](https://github.com/justinjabo250?tab=repositories)
+[![Articles](https://img.shields.io/badge/My-Portfolio-darkblue?logo=Website)](https://justinjabo250.github.io/Developing-a-web-application-for-an-online-portfolio./)
+[![View GitHub Profile](https://img.shields.io/badge/GitHub-Profile-darkgreen)](https://github.com/justinjabo250)
 
 ![ezgif com-crop (4)](https://user-images.githubusercontent.com/115732734/270480308-18141400-ac52-4944-8c10-9fdd40c2eba4.gif)
 ![ezgif com-crop (4)](https://user-images.githubusercontent.com/115732734/270480345-cbdcdb44-a871-441d-a9c1-dd9073b59610.gif)
