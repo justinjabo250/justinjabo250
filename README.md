@@ -16,8 +16,22 @@
 
 <h3 align="">• I possess a broad knowledge of specialized software platforms for data engineering, such as Apache Spark, Looker and Data Build Tool. These platforms are specifically designed for data pipeline design, data transformation, and workflow development, as well as data integration, real-time processing, ETL (Extract, Transform, Load) operations, and data quality control.  </h3></br>
 
+
+<h3 align="">• I am extremely knowledgeable in the usage of  geospatial data, data engineering tools like ArcGIS and QGIS, and cloud-based tools for managing and analyzing large datasets, such as Google Earth Engine and Mapbox. </h3></br> 
+
+
+<h3 align="">• I possess extensive and specialized knowledge and expertise in using software platforms that focus on drone data engineering and image analysis. I am competent in using these platforms, which integrate flight planning, data collection, and analysis capabilities into a single, integrated solution.  </h3></br>
+
+
+<h3 align="">• I possess all the necessary skills and knowledge to streamline the entire process, from pre-flight planning to post-flight analysis and reporting, improving accuracy and efficiency.  </h3></br>
+
+
+<h3 align="">• I am proficient in the features utilized for 3D modeling, processing, and mapping,  DroneDeploy, Propeller Aero, and Pix4D, and intergrarion of AI machine learning to provide automated data processing, analysis, and insights. </h3></br>
+
+
 <h3 align="">• Deep dive and strong understanding and use of different skills such as Analyst, Power BI Master, Data Modelling Power BI Master, Power Query master, SQL , MYSQL, PostgreSQL, SandboxSQL, MYSQL Workbench, Database Analysis Master, Excel master, Hypothesis Testing, Correlation, Power Pivot, Data visualization Techniques, Data Visualization In Excel, Creating More Advanced Visuals in Excel, Excel Functions, Formular and statistics, Comparing Distributions, Population Standard Deviation, sample, parameter, statistic (singular), and variable, Machine Learning.
 </h3></br> 
+
 <h3 align="">• I possess a Strong and  excellent capability and able to manage and role play in different positions such as Data Scientist, Data Engineer, Business Intelligence Analyst, Power BI Master, Data Modelling Power BI Master, Quality Assurance(QA) Engineer, Information Security Analyst, Computer Systems Analyst , agile software developer. eg:AWS.</h3></br>
 
 ![ezgif com-crop (4)](https://user-images.githubusercontent.com/115732734/270480253-f2fe9471-aa2b-439c-bb0b-19eb436bf2a5.gif)
