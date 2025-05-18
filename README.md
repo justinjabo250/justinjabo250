@@ -34,6 +34,17 @@
 
 <h3 align="">• I possess a Strong and  excellent capability and able to manage and role play in different positions such as Data Scientist, Data Engineer, Business Intelligence Analyst, Power BI Master, Data Modelling Power BI Master, Quality Assurance(QA) Engineer, Information Security Analyst, Computer Systems Analyst , agile software developer. eg:AWS.</h3></br>
 
+
+<h3 align="">• I am a highly competent and certified and passionate Agile Project Manager and Scrum Master, I possess a proven ability to lead teams collaboratively and drive the successful achievement of organizational objectives, thereby enhancing the company’s prestige and competitive edge. </h3></br> 
+
+
+<h3 align="">• I possess a strong expertise that extends beyond Agile methodologies to include strong capabilities as a Team Lead Manager and Product Manager, supported by a comprehensive IT technical background covering cybersecurity, software engineering, networking, IT cloud infrastructure, data engineering, system administration, and troubleshooting. </h3></br> 
+
+
+<h3 align="">• I possess a proven, deep understanding of IT products and a solid foundation in customer relationship management, complemented by extensive experience in technical support engineering, I am uniquely positioned to bridge the gap between technology and business. This holistic skill set empowers me to foster innovation, optimize processes, and deliver sustainable value that resonates strongly with stakeholders and business investors alike. </h3></br> 
+
+
+
 ![ezgif com-crop (4)](https://user-images.githubusercontent.com/115732734/270480253-f2fe9471-aa2b-439c-bb0b-19eb436bf2a5.gif)
 
 ## My projects:
