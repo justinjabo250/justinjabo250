@@ -11,10 +11,63 @@
 <h1 align="center">Hello 👋, I'm Justin JABO</h1>
 <h3 align="center">A professional Data Analyst, Data Scientist, Data Engineer, and Qualified In Data analyisis Filed with passion, dedication, and enthusiasm.
 </h3>
+
+</br> 
+
+##  Data Engineering, Data Analytics, Data Scientist Skills and Competence:
+
+</br>
+
+
 <h3 align="">• I possess a solid and  excellent understanding of how to use various tools that are necessary for data analysis, as well as the capacity to interaction with them, and data analysis tools like advanced Microsoft Excel; programming languages SQL, Python and R; Spark and Hadoop for number-crunching; and Tableau, Matplotlib, or ggplot2 for creating beautiful visualizations that bring data to life. </h3></br>
 <h3 align="">• Additionally, I have a solid grasp of how to use  data lake clude cloud-based services ,AWS Lake Formation, Azure Data Lake, Google BigLake, Amazon Web Services, Snowflake, Databricks, and Dremio  , and others data warehouse tools and technologies platforms, like Amazon Redshift, BigQuery,  as well as ProstgreSQL, Micro Focus Vertica, and Microsoft Azure.  </h3></br>
 
 <h3 align="">• I possess a broad knowledge of specialized software platforms for data engineering, such as Apache Spark, Looker and Data Build Tool. These platforms are specifically designed for data pipeline design, data transformation, and workflow development, as well as data integration, real-time processing, ETL (Extract, Transform, Load) operations, and data quality control.  </h3></br>
+
+
+</br> 
+
+## Competencies, diversity, and a solid grasp of data analytics skills:
+
+</br>
+
+
+<h3 align="">• Deep dive and strong understanding and use of different skills such as Analyst, Power BI Master, Data Modelling Power BI Master, Power Query master, SQL , MYSQL, PostgreSQL, SandboxSQL, MYSQL Workbench, Database Analysis Master, Excel master, Hypothesis Testing, Correlation, Power Pivot, Data visualization Techniques, Data Visualization In Excel, Creating More Advanced Visuals in Excel, Excel Functions, Formular and statistics, Comparing Distributions, Population Standard Deviation, sample, parameter, statistic (singular), and variable, Machine Learning.
+</h3></br> 
+
+<h3 align="">• I possess a Strong and  excellent capability and able to manage and role play in different positions such as Data Scientist, Data Engineer, Business Intelligence Analyst, Power BI Master, Data Modelling Power BI Master, Quality Assurance(QA) Engineer, Information Security Analyst, Computer Systems Analyst , agile software developer. eg:AWS.</h3></br>
+
+
+</br> 
+
+##  Agile Project Management Skills and Competence:
+
+</br>
+
+
+<h3 align="">• I am a highly competent and certified and passionate Agile Project Manager and Scrum Master, I possess a proven ability to lead teams collaboratively and drive the successful achievement of organizational objectives, thereby enhancing the company’s prestige and competitive edge. </h3></br> 
+
+
+</br> 
+
+##  Team Management and Product management Skills and Competence:
+
+</br>
+
+
+<h3 align="">• I possess a strong expertise that extends beyond Agile methodologies to include strong capabilities as a Team Lead Manager and Product Manager, supported by a comprehensive IT technical background covering cybersecurity, software engineering, networking, IT cloud infrastructure, data engineering, system administration, and troubleshooting. </h3></br> 
+
+
+<h3 align="">• I possess a proven, deep understanding of IT products and a solid foundation in customer relationship management, complemented by extensive experience in technical support engineering, I am uniquely positioned to bridge the gap between technology and business. This holistic skill set empowers me to foster innovation, optimize processes, and deliver sustainable value that resonates strongly with stakeholders and business investors alike. </h3></br> 
+
+
+
+</br> 
+
+## Arcgis and Geospatial and Drone Data Analytics Skills and Competence:
+
+</br>
+
 
 
 <h3 align="">• I am extremely knowledgeable in the usage of  geospatial data, data engineering tools like ArcGIS and QGIS, and cloud-based tools for managing and analyzing large datasets, such as Google Earth Engine and Mapbox. </h3></br> 
@@ -29,21 +82,29 @@
 <h3 align="">• I am proficient in the features utilized for 3D modeling, processing, and mapping,  DroneDeploy, Propeller Aero, and Pix4D, and intergrarion of AI machine learning to provide automated data processing, analysis, and insights. </h3></br>
 
 
-<h3 align="">• Deep dive and strong understanding and use of different skills such as Analyst, Power BI Master, Data Modelling Power BI Master, Power Query master, SQL , MYSQL, PostgreSQL, SandboxSQL, MYSQL Workbench, Database Analysis Master, Excel master, Hypothesis Testing, Correlation, Power Pivot, Data visualization Techniques, Data Visualization In Excel, Creating More Advanced Visuals in Excel, Excel Functions, Formular and statistics, Comparing Distributions, Population Standard Deviation, sample, parameter, statistic (singular), and variable, Machine Learning.
-</h3></br> 
 
-<h3 align="">• I possess a Strong and  excellent capability and able to manage and role play in different positions such as Data Scientist, Data Engineer, Business Intelligence Analyst, Power BI Master, Data Modelling Power BI Master, Quality Assurance(QA) Engineer, Information Security Analyst, Computer Systems Analyst , agile software developer. eg:AWS.</h3></br>
+</br> 
+
+## AI engineering skills and Competence:
+
+</br>
+
+<h3 align="">• As a distinguished AI engineering professional, I possess a robust blend of essential expertise including advanced machine learning, deep learning, neural network architectures (design), natural language processing, and data engineering, all grounded in strong mathematical foundations like linear algebra, calculus, and statistics. </h3></br> 
+
+<h3 align="">• I am proficient in leveraging leading AI frameworks and tools such as TensorFlow, PyTorch, and GPT-4, alongside cloud platforms like AWS, Azure, and Google Cloud, to design, develop, and deploy scalable, high-performance AI solutions. </h3></br> 
+
+<h3 align="">• My capabilities extend to implementing efficient MLOps pipelines and managing big data workflows, ensuring seamless integration and continuous optimization in production environments. </h3></br> 
+
+<h3 align="">• With a proven track record of transforming complex data challenges into innovative, business-driving AI applications. </h3></br>  
+<h3 align="">• I am uniquely positioned to deliver cutting-edge IT that accelerate digital transformation and create sustainable competitive advantages. This blend of technical excellence and strategic vision makes me an invaluable partner for stakeholders and investors eager to capitalize on the evolving AI landscape and drive breakthrough innovation. </h3></br> 
 
 
-<h3 align="">• I am a highly competent and certified and passionate Agile Project Manager and Scrum Master, I possess a proven ability to lead teams collaboratively and drive the successful achievement of organizational objectives, thereby enhancing the company’s prestige and competitive edge. </h3></br> 
 
+</br> 
 
-<h3 align="">• I possess a strong expertise that extends beyond Agile methodologies to include strong capabilities as a Team Lead Manager and Product Manager, supported by a comprehensive IT technical background covering cybersecurity, software engineering, networking, IT cloud infrastructure, data engineering, system administration, and troubleshooting. </h3></br> 
+## Cybersecurity skills and Competence:
 
-
-<h3 align="">• I possess a proven, deep understanding of IT products and a solid foundation in customer relationship management, complemented by extensive experience in technical support engineering, I am uniquely positioned to bridge the gap between technology and business. This holistic skill set empowers me to foster innovation, optimize processes, and deliver sustainable value that resonates strongly with stakeholders and business investors alike. </h3></br> 
-
-
+</br> 
 <h3 align="">• As a highly skilled cybersecurity professional, I possess deep expertise in leading frameworks such as NIST, ISO 27001, CIS Controls, and SOC 2, enabling me to architect, design, implement and maintain robust, resilient, compliant security programs that effectively align with organizational risk management and ensure regulatory adherence and business needs. </h3></br> 
 
 
