@@ -50,7 +50,7 @@
 
 </br> 
 
-##  Team Management and Product management Skills and Competence:
+##  Team Management and IT Product management Skills and Competence:
 
 </br>
 
