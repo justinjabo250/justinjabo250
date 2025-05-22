@@ -44,6 +44,15 @@
 <h3 align="">• I possess a proven, deep understanding of IT products and a solid foundation in customer relationship management, complemented by extensive experience in technical support engineering, I am uniquely positioned to bridge the gap between technology and business. This holistic skill set empowers me to foster innovation, optimize processes, and deliver sustainable value that resonates strongly with stakeholders and business investors alike. </h3></br> 
 
 
+<h3 align="">• As a highly skilled cybersecurity professional, I possess deep expertise in leading frameworks such as NIST, ISO 27001, CIS Controls, and SOC 2, enabling me to architect, design, implement and maintain robust, resilient, compliant security programs that effectively align with organizational risk management and ensure regulatory adherence and business needs. </h3></br> 
+
+
+<h3 align="">• My proficiency with advanced cybersecurity tools—including Security Information and Event Management (SIEM) platforms, Intrusion Detection Systems (IDS), and Intrusion Prevention Systems (IPS)—allows me to rapidly detect and respond to suspicious activities and security violations. </h3></br> 
+
+
+<h3 align="">• I excel in incident handling by leveraging thorough knowledge of organizational incident response plans, digital forensics, and malware analysis, ensuring swift containment and remediation of threats. Complemented with strong skills in threat intelligence, cloud security, and ethical hacking, I deliver innovative, scalable cybersecurity solutions that aligned with evolving cyber threats, protecting critical assets and drive business resilience and objectives. This unique combination of strategic insight and technical mastery positions me as a trusted leader ready to safeguard digital assets and drive measurable value for stakeholders and investors in today’s dynamic IT and innovation landscape. </h3></br> 
+
+
 
 ![ezgif com-crop (4)](https://user-images.githubusercontent.com/115732734/270480253-f2fe9471-aa2b-439c-bb0b-19eb436bf2a5.gif)
 
