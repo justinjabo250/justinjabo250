@@ -64,7 +64,7 @@
 
 </br> 
 
-## Arcgis and Geospatial and Drone Data Analytics Skills and Competence:
+## ArcGIS and Geospatial and Drone imagery and Drone Data Analytics Skills and Competence:
 
 </br>
 
